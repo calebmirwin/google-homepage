@@ -1,0 +1,1 @@
+This website is recreation of the google homepage for practice and learning as apart of the Odin Project.
