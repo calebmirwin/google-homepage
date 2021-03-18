@@ -1,13 +1,23 @@
 html {
 }
+
 body {
+	background: #ffffff;
+	color: #222222;
 }
 
-h1 {
+div.container1{
+	height: 10em
+	position: relative;
+	align-items: center;
 }
 
-p, li {
+link{
+	
 }
-
-img {
+/*
+img.logo{
+	display: block;
+	margin: auto;
 }
+*/
